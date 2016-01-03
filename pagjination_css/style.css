@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* For this page only */
+body { font-family:Arial, Helvetica, sans-serif; font-size:13px; }
+.wrap { text-align:center; line-height:21px; padding:20px; }
+
+/* For pagination function. */
+ul.pagination {
+    text-align:center;
+    color:black;
+}
+ul.pagination li {
+    display:inline;
+    padding:0 3px;
+}
+ul.pagination a {
+    color:#0d7963;
+    display:inline-block;
+    padding:5px 10px;
+    border:1px solid #cde0dc;
+    text-decoration:none;
+}
+ul.pagination a:hover,
+ul.pagination a.current {
+    background:lightblue;
+    color:white;
+}
+

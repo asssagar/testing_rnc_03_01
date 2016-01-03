@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.heardertitle24 {font-family:"Verdna"; font-size:24px; font-style:bold; text-decoration:none; line-height:28px; color:#59c3ee; }
+.heardertitle20 {font-family:"Verdna"; font-size:20px; font-style:bold; text-decoration:none; line-height:25px; color:#59c3ee; }
+.heardertitle18 {font-family:"Verdna"; font-size:18px; font-style:bold; text-decoration:none; line-height:23px; color:#59c3ee; }
+.heardertitle16 {font-family:"Verdna"; font-size:16px; font-style:bold; text-decoration:none; line-height:21px; color:#59c3ee; }
+.heardertitle14 {font-family:"Verdna"; font-size:14px; font-style:bold; text-decoration:none; line-height:18px; color:#59c3ee; }
+
+.text {font-family:Arial; font-size:12px; font-style:normal; text-align:justify; text-decoration:none; line-height:20px; color:#762b27; }
+
+.text45 {font-family:Tahoma; font-size:15px; font-style:bold;  text-decoration:none; line-height:22px; color:#247354; }
+.text46 {font-family:Tahoma; font-size:17px; font-style:bold;  text-decoration:none; line-height:25px; color:#247354; }
+
+
+.inputbox {font-family:Arial; background-color:#FFFFFFl; border:1px solid #a45e5c; height:18px;
+           font-size:12px; font-style:normal; font-weight:normal; text-align:justify; color:#762b27; }
+
+.selectbox {font-family:Arial; background-color:#FFFFFFl; border:1px solid #a45e5c; width:183px; height:20px;
+           font-size:12px; font-style:normal; font-weight:normal; text-align:justify; color:#762b27; }
+
+.addressbox {font-family:Arial; background-color:#FFFFFFl; border:1px solid #a45e5c; font-size:12px; font-style:normal; font-weight:normal; color:#762b27; height:48px;}
+
+
+.dateofDD {font-family:Arial; background-color:#FFFFFFl; border:1px solid #a45e5c; width:54px; height:20px;
+           font-size:12px; font-style:normal; font-weight:normal; text-align:justify; color:#762b27; }
+.dateofDD2 {font-family:Arial; background-color:#cecac8; border:1px solid #a45e5c; width:50px; height:18px;
+           font-size:12px; font-style:normal; font-weight:normal; text-align:justify; color:#762b27; }
+
+.eduQuaColumn {font-family:Arial; font-size:12px; font-style:normal; text-align:left; text-decoration:none; line-height:16px; color:blue; }
+
+.eduQuaColumnTextbox {font-family:Arial; font-size:12px; font-style:normal;  background-color:#FFFFFFl; border:1px solid #a45e5c; text-align:left; text-decoration:none; line-height:16px; color:#762b27; }
+
+
+
+
+
+

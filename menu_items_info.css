@@ -1,0 +1,390 @@
+ body {
+   background-color: #F8F6F1;
+   width: 100%;
+   max-height: 1024px;
+}
+
+
+.credits {
+    margin-top: 5%;
+}
+
+
+.content_menu{
+	width: 1024px;
+	height: auto;
+	margin-left:57px;
+	
+	margin-top: 100px;
+	    BACKGROUND-COLOR: #FFF;
+}
+
+.sub_content_menu
+{
+	background-color: #fff;
+	
+
+	}
+
+
+	.menu_one
+	{
+		
+		 background-color:#000;
+		  padding: 5px;
+		  min-width: 300px;
+		  float: left;
+		  margin-left: 20px;
+		  text-align: center;
+	}
+
+	.newboxes2
+	{
+		background-color:#fff;
+		width: 600px;
+		height: 600px;
+		color: #8F4444;
+	}
+
+
+
+	#myHeader1
+	{
+		margin-left: 80px;
+		color: #8F4444;
+	}
+
+	#myHeader2
+	{
+		color: #fff;
+		    margin-left: 309px;
+		    color: #8F4444;
+
+	}
+
+
+
+	#myHeader3
+	{
+		font-size: 14px;
+		color: #8F4444;
+		    margin-left: 411px;
+	}
+
+
+
+.review_main
+{
+	margin: o auto;
+	    border-bottom: 1px solid #eee;
+	        margin-top: 31px;
+    padding-bottom: 10px;
+
+}
+
+
+.review_sub
+{
+	
+	
+	margin-left:258px;
+
+}
+
+.review_detail_one
+{
+	font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #222;
+    font-weight: 700;
+}
+
+.review_date
+{
+	display: block;
+    margin: 0 0 2px 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+}
+.rating_star
+{
+	    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    position: relative;
+    background-image: url(/_/sprite/common-fb91ec04810de5348e08f1369558a82a.png);
+    background-position: 0 -1132px;
+    
+    height: 24px;
+}
+
+
+.comment_area{
+	    font-size: 16px;
+    margin: 5px 0 0 0;
+}
+
+
+.vendor_info
+{
+	font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #222;
+    font-weight: 700;
+    margin: 0 10px 20px 10px;
+    display: inline-block;
+    float: left;
+}
+
+
+.vendor_cuisines_title{
+font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 15px;
+        margin-left: 10px;
+    /* position: relative; */}
+
+.vendor_cuisines
+{
+	position: relative;
+    min-height: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    clear: left;
+    border-bottom: 1px solid #eee;
+        padding-bottom: 10px;
+        display: inline-block;
+        float: left;
+}
+
+
+.vendor_schedules_title{
+position: relative;
+    padding-left: 30px;
+    margin-top: 10px;
+    font-family: inherit;
+}
+
+.vendor_overview_list
+{
+
+	
+	    width: 300px;
+    height: auto;
+    float: right;
+    display: block;
+}
+
+.vendor_overview_list_inside
+{
+	
+	height: auto;
+}
+
+.week_schedules
+{
+	display: block;
+	float: left;
+    width: 64%;
+    position: relative;
+    min-height: 1px;
+    padding-left: 27px;
+    padding-right: 10px;
+    font-style: italic;
+    font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	padding-top: 10px;
+}
+
+.week_days
+{
+	float: left;
+	display: block;
+
+}
+
+
+.time_daily
+{
+	float: right;
+	display: block;
+}
+
+.address
+{
+	
+	position: relative;
+    padding-left: 30px;
+    margin-top: 10px;
+    font-family: inherit;
+}
+
+.address_details
+{
+	margin-bottom: 20px;
+    font-style: normal;
+    font-family: 'Open Sans';
+        font-size: 14px;
+    padding-left: 30px;
+     border-bottom: 1px solid #eee;
+     padding-top: 10px;
+     padding-bottom: 20px;
+
+    
+}
+
+
+.menu_left_sidebar
+{
+	float: left;
+	width: 300px;
+	background-color: #000;
+	height: auto;
+	display: inline-block;
+}
+
+.menu_title
+{
+	color: #444;
+font-size: 17px;
+font-weight: 700;
+display: inline-block;
+vertical-align: middle;
+font-size: 24px;
+border-bottom: 1px solid #E9E4DC;
+}
+
+.submenu_title
+{
+	color: #444;
+font-size: 17px;
+font-weight: 700;
+
+vertical-align: middle;
+width: 75%;
+display: inline-block;
+border-top: 1px solid #E9E4DC;
+padding: 10px 0px;
+position: relative;
+}
+
+.price_bar
+{
+	color: #444;
+font-size: 17px;
+font-weight: 700;
+display: inline-block;
+float: left;
+
+}
+
+.operating_times
+{
+	font-weight: 700;
+font-size: 1.7rem;
+
+float: right;
+display: inline-block;}
+
+
+
+.home_delevery
+{
+    font-weight: 700;
+    font-size: 1.7rem;
+    display: inline-block;
+    float: left;
+        margin-top: 10px;
+    }
+
+
+
+    .map{
+
+    	background-image:  url("images/staticmap.png");
+
+min-width: 350px;
+min-height: 350px;
+background-position: center;
+display: inline-block;
+float: left;
+    }
+    
+
+    .Delivery_areas
+    {
+    	
+    	    
+    height: auto;
+    display: inline-block;
+    font-weight: 700;
+font-size: 1.7rem;
+
+    
+    }
+
+
+
+
+
+    .cart_header
+    {position: relative;
+font-weight: 700;
+font-size: 20px;
+color: #5D6266;
+padding: 20px;
+box-shadow: 0px 4px 2px -2px rgba(0, 0, 0, 0.1);
+background: #FFF none repeat scroll 0% 0%;
+z-index: 972
+border-bottom: 1px solid #E9E4DC;
+
+}
+
+
+.cart_element
+{
+	list-style: outside none none;
+font-weight: 700;
+margin-bottom: 10px;
+font-size: 15px;
+line-height: 20px;
+overflow: hidden;
+color: #3B3B3B;
+padding-top: 10px;
+position: relative;
+}
+
+
+
+
+
+@media screen and (max-width:900px) {
+
+.review_sub
+{
+    margin: 0px;
+}
+
+
+}
+
+
+
+#shopping-cart{
+    box-shadow: 0px 4px 2px -2px rgba(0, 0, 0, 0.1);
+}
